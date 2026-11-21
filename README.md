@@ -1,7 +1,5 @@
 原文链接:https://blog.csdn.net/2401_84875710/article/details/155892146
 
-原文链接:https://blog.csdn.net/2401_84875710/article/details/155892146
-
 # web-loadbalancing
 
 Web 服务与负载均衡：Tomcat、Nginx、LVS、HAProxy、KeepAlived、Ansible 剧本
